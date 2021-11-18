@@ -11,3 +11,5 @@ print(f"W sumie kupuję {len(lista_zakupow_dict1[shop]) * len(lista_zakupow_dict
 
 print("Commit_no1")
 print("Commit_no2")
+print()
+print("Pozdrowienia z Podkarpacia")
