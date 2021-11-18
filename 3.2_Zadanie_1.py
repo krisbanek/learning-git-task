@@ -10,3 +10,4 @@ for shop in lista_zakupow_dict1:
 print(f"W sumie kupuję {len(lista_zakupow_dict1[shop]) * len(lista_zakupow_dict1)} produktów")
 
 print("Commit_no1")
+print("Commit_no2")
